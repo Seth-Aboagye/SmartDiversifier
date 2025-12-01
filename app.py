@@ -1,3 +1,4 @@
+# redeploy test 1
 # app.py – SmartDiversifier (updated)
 
 import io
